@@ -1,0 +1,2 @@
+# GitWindowsTest
+Hello Git.
